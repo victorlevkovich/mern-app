@@ -1,0 +1,6 @@
+{
+    "port": "1008",
+    "jwtSecret": "sacLraOl",
+    "mongoUri": "mongodb+srv://Victorlev:Victorlev21@cluster0.2dtwmnm.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:1008"
+}
